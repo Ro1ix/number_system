@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2023-04-06T14:45:19.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="QBYAKz09sCRjB-j5vO_L" version="21.1.4" type="device">
+  <diagram name="Страница 1" id="Z9K1tNPKtI9AY-vkeQpS">
+    <mxGraphModel dx="1816" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pIka6MXpzyor0xnJCcNd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2JxqPy2QXHR2AHmcMR86-1" target="ryswpVJ10NMLdz56twCL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2JxqPy2QXHR2AHmcMR86-1" value="Начало" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="334" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5HvoogiQ1ebR22sNOO8Z-6" value="int input" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-164" y="240" width="154" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5HvoogiQ1ebR22sNOO8Z-12" value="input_in_array,&lt;br&gt;for (int i = 0; i &amp;lt; count; i++)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-190" y="320" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ryswpVJ10NMLdz56twCL-1" target="pIka6MXpzyor0xnJCcNd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ryswpVJ10NMLdz56twCL-1" value="Вывод&lt;br&gt;&quot;ПЕРЕВОД ЧИСЛА ИЗ ОДНОЙ СИСТЕМЫ СЧИСЛЕНИЯ В ДРУГУЮ&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="123" y="120" width="582" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryswpVJ10NMLdz56twCL-5" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-150" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryswpVJ10NMLdz56twCL-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;rotation=-180;" parent="ryswpVJ10NMLdz56twCL-5" vertex="1">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ryswpVJ10NMLdz56twCL-4" value="input_in_array" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ryswpVJ10NMLdz56twCL-5" vertex="1">
+          <mxGeometry x="20" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwrpvE9RAgZ8z1VkeaF3-3" value="sum == number" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-177.5" y="520" width="158" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EwrpvE9RAgZ8z1VkeaF3-10" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="4.5" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwrpvE9RAgZ8z1VkeaF3-16" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-250" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EwrpvE9RAgZ8z1VkeaF3-70" value="Конец" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="670" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pIka6MXpzyor0xnJCcNd-2" target="pIka6MXpzyor0xnJCcNd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-2" value="Вывод&lt;br&gt;&quot;\nВведите число, над которым будет проводиться операция&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="547" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pIka6MXpzyor0xnJCcNd-4" target="pIka6MXpzyor0xnJCcNd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-4" value="Ввод&lt;br&gt;string number" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="329" y="300" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pIka6MXpzyor0xnJCcNd-6" target="pIka6MXpzyor0xnJCcNd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-6" value="Вывод&lt;br&gt;&quot;\nВведите систему счисления этого числа (от 2 до 16)&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="144" y="370" width="539.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pIka6MXpzyor0xnJCcNd-8" target="pIka6MXpzyor0xnJCcNd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-8" value="Ввод&lt;br&gt;int system_1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="329" y="460" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pIka6MXpzyor0xnJCcNd-10" value="Вывод&lt;br&gt;&quot;\nВведите систему счисления, в которую хотите перевести число (от 2 до 16)&quot;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="76" y="530" width="676" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
