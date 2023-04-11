@@ -1,0 +1,7 @@
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\bin\Debug\number_system.exe.config
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\bin\Debug\number_system.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\bin\Debug\number_system.pdb
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\obj\Debug\number_system.csproj.AssemblyReference.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\obj\Debug\number_system.csproj.CoreCompileInputs.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\obj\Debug\number_system.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Основы алгоритмизации и программирования\Работа 4\number_system\obj\Debug\number_system.pdb
