@@ -1,0 +1,7 @@
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\bin\Debug\numbers_system_ver2.0.exe.config
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\bin\Debug\numbers_system_ver2.0.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\bin\Debug\numbers_system_ver2.0.pdb
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\obj\Debug\numbers_system_ver2.0.csproj.AssemblyReference.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\obj\Debug\numbers_system_ver2.0.csproj.CoreCompileInputs.cache
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\obj\Debug\numbers_system_ver2.0.exe
+E:\Ваня\Колледж\2 курс\2 семестр\Программирование\Работа 4\numbers_system_ver2.0\obj\Debug\numbers_system_ver2.0.pdb
